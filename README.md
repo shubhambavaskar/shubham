@@ -1,43 +1,46 @@
-Hi, I’m Shubham Bavaskar! 👋
-🌟 Aspiring DevOps Engineer passionate about Cloud Computing, Automation, and Infrastructure as Code.
-💻 Skilled in AWS | Docker | Kubernetes | Terraform | Ansible | Jenkins | Git | Python | Linux | CI/CD | Monitoring.
+# Hi, I’m Shubham Bavaskar!
 
-💻 Technical Skills:
-Cloud: AWS (EC2, S3, RDS, Lambda, VPC)
+Aspiring DevOps Engineer passionate about cloud computing, automation, and modern infrastructure tools. Experienced with AWS, Docker, Kubernetes, Terraform, Ansible, and CI/CD pipelines, I focus on optimizing processes and automating repetitive tasks.
 
-Containers: Docker, Kubernetes
+## 💻 Technical Skills:
 
-Infrastructure as Code (IaC): Terraform, CloudFormation
+- **Cloud**: AWS (EC2, S3, RDS, Lambda, VPC)
+- **Containers**: Docker, Kubernetes
+- **IaC**: Terraform, CloudFormation
+- **Automation**: Ansible, Jenkins
+- **Version Control**: Git, GitHub
+- **Scripting**: Bash, Python
+- **Monitoring**: Prometheus, Grafana
 
-Automation: Ansible, Jenkins
+## 🔭 Current Focus:
 
-Version Control: Git, GitHub
+- Mastering Kubernetes & Terraform
+- Building CI/CD pipelines & automation workflows
+- Deepening knowledge in AWS services
 
-Scripting: Bash, Python
+## 📫 How to Reach Me:
+- **LinkedIn**: [www.linkedin.com/in/shubham-bavaskar-933a75195](https://www.linkedin.com/in/shubham-bavaskar-933a75195)
+- **Email**: [shubhamba97@gmail.com](mailto:shubhamba97@gmail.com)
 
-Monitoring: Prometheus, Grafana
+## ⚡ Fun Fact:
+I love automating repetitive tasks and exploring new technologies, which helps me stay at the cutting edge of the DevOps world.
 
-🔭 Currently Working On:
-Mastering Kubernetes & Terraform
+## Key Strengths:
+- **Problem Solver**: Passionate about identifying bottlenecks and optimizing workflows to improve system efficiency.
+- **Adaptable Learner**: Always eager to learn new technologies, tools, and methodologies to improve my skill set.
+- **Collaborative**: I believe in teamwork and open communication to achieve shared goals.
 
-Building robust CI/CD pipelines
+## 🛠 My Tech Stack
 
-Deepening AWS Solutions Architect skills
-
-📫 Let's Connect:
-LinkedIn Profile
-
-Email Me
-
-⚡ Fun Fact:
-I love automating boring tasks, exploring new cloud-native tools, and sharing my DevOps learning journey.
-
-🚀 My DevOps Toolkit:
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" alt="Prometheus" width="40" height="40"/> </p>
-🌟 Key Strengths:
-✅ Problem Solver: Loves solving bottlenecks and optimizing systems.
-
-✅ Quick Learner: Eager to learn new technologies and methodologies.
-
-✅ Team Player: Believes in collaboration and continuous improvement.
-
+### Cloud & DevOps Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" alt="Prometheus" width="50" height="50"/>
+</p>
