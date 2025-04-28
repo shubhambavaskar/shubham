@@ -1,7 +1,8 @@
 #👋 Hi there, I’m Shubham Bavaskar!
-<bq>
+<p>
 I’m an aspiring DevOps Engineer passionate about cloud computing, automation, and modern infrastructure tools. With hands-on experience in a wide range of tools and technologies, I am dedicated to building scalable, reliable, and efficient cloud-native solutions. My focus is on optimizing processes, automating repetitive tasks, and enhancing productivity through the latest technologies.
-
+<p>
+  
 💻 Technical Skills:
 Cloud Platforms: AWS (EC2, S3, IAM, CloudWatch, RDS, Lambda, VPC, etc.)
 Containerization: Docker, Kubernetes, Helm
@@ -42,9 +43,7 @@ I love automating repetitive tasks and exploring new technologies, which helps m
 
 ### Cloud & DevOps Tools:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
@@ -53,7 +52,6 @@ I love automating repetitive tasks and exploring new technologies, which helps m
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" alt="Prometheus" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jira.svg" alt="Jira" width="50" height="50"/>
 </p>
 
 ---
