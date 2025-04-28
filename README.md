@@ -1,4 +1,5 @@
-👋 Hi there, I’m Shubham Bavaskar!
+#👋 Hi there, I’m Shubham Bavaskar!
+<bq>
 I’m an aspiring DevOps Engineer passionate about cloud computing, automation, and modern infrastructure tools. With hands-on experience in a wide range of tools and technologies, I am dedicated to building scalable, reliable, and efficient cloud-native solutions. My focus is on optimizing processes, automating repetitive tasks, and enhancing productivity through the latest technologies.
 
 💻 Technical Skills:
