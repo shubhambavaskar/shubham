@@ -1,46 +1,31 @@
-👋 Hi there, I’m Shubham Bavaskar!
-I’m an aspiring DevOps Engineer passionate about cloud computing, automation, and modern infrastructure tools. With hands-on experience in a wide range of tools and technologies, I am dedicated to building scalable, reliable, and efficient cloud-native solutions. My focus is on optimizing processes, automating repetitive tasks, and enhancing productivity through the latest technologies.
+ Hi, I’m Shubham Bavaskar!
+
+Aspiring DevOps Engineer passionate about cloud computing, automation, and modern infrastructure tools. Experienced with AWS, Docker, Kubernetes, Terraform, Ansible, and CI/CD pipelines, I focus on optimizing processes and automating repetitive tasks.
 
 💻 Technical Skills:
-Cloud Platforms: AWS (EC2, S3, IAM, CloudWatch, RDS, Lambda, VPC, etc.)
 
-Containerization: Docker, Kubernetes, Helm
+Cloud: AWS (EC2, S3, RDS, Lambda, VPC)
 
-Infrastructure as Code (IaC): Terraform, CloudFormation
+Containers: Docker, Kubernetes
 
-Automation & Configuration Management: Ansible, Jenkins
+IaC: Terraform, CloudFormation
 
-Version Control & CI/CD: Git, GitHub, GitLab, Jenkins
+Automation: Ansible, Jenkins
 
-Operating Systems: Linux (Ubuntu, CentOS)
+Version Control: Git, GitHub
 
-Scripting & Programming: Bash, Python
+Scripting: Bash, Python
 
-Monitoring & Logging: Prometheus, Grafana, ELK Stack
+Monitoring: Prometheus, Grafana
 
-🔭 What I’m Currently Working On:
-Expanding my expertise in Kubernetes, Terraform, and advanced AWS services.
+🔭 Current Focus:
 
-Building end-to-end CI/CD pipelines and automating infrastructure management.
+Mastering Kubernetes & Terraform
 
-Enhancing my knowledge in DevOps best practices, automation, and cloud-native architectures.
+Building CI/CD pipelines & automation workflows
 
-🌱 Learning Goals:
-Deepening my expertise in Kubernetes for orchestrating containerized applications.
+Deepening knowledge in AWS services
 
-Mastering Terraform for Infrastructure as Code (IaC) and creating reproducible, scalable infrastructure.
-
-Gaining hands-on experience with advanced AWS services and DevOps automation tools.
-
-🤝 Let’s Collaborate:
-I’m always open to collaborating on DevOps, cloud computing, and automation projects.
-
-I enjoy solving complex problems and optimizing systems for maximum performance and reliability.
-
-💬 Ask Me About:
-Anything related to AWS, Docker, Git, Linux, Terraform, Kubernetes, and DevOps best practices.
-
-I'm happy to share my knowledge, help troubleshoot, or explore new concepts together.
 
 📫 How to Reach Me:
 LinkedIn: www.linkedin.com/in/shubham-bavaskar-933a75195
